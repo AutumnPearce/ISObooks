@@ -1,2 +1,2 @@
-# ignore the GCNS table
-table1c.csv
+# ignore the catalog tables
+star_catalogs/files/
